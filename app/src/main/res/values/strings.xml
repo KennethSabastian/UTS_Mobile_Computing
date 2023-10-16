@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Matkul</string>
+    <string name="matkul1">Dasar-dasar Pemrograman</string>
+    <string name="matkul2">Struktur Data dan Algoritma</string>
+    <string name="matkul3">Interaksi Manusia</string>
+    <string name="matkul4">Perancangan dan Pemrograman Web</string>
+    <string name="matkul5">Filsafat MIPA</string>
+    <string name="matkul6">Olimpisme</string>
+    <string name="matkul7">Bahasa Indonesia</string>
+    <string name="matkul8">Wawasan Pendidikan</string>
+    <string name="matkul9">Pengantar Teori Graph</string>
+    <string name="matkul10">Statistika dan Probabilitas</string>
+
+    <string name="sks1">3</string>
+    <string name="sks2">3</string>
+    <string name="sks3">3</string>
+    <string name="sks4">3</string>
+    <string name="sks5">2</string>
+    <string name="sks6">1</string>
+    <string name="sks7">2</string>
+    <string name="sks8">2</string>
+    <string name="sks9">3</string>
+    <string name="sks10">3</string>
+</resources>
